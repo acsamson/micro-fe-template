@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lianshanchun
  * @Date: 2021-03-26 02:49:14
- * @LastEditTime: 2021-03-26 02:49:14
+ * @LastEditTime: 2021-03-26 02:50:21
  * @LastEditors: lianshanchun@baidu.com
  * @FilePath: /acsamson/micro-fe-template/README.md
 -->
@@ -11,6 +11,9 @@
 微前端架构, 主应用main-app(antd pro v5), 子应用aub-app-1(umi)
 
 启动: 分别到两个文件夹内使用
+
 yarn
+
 yarn start
+
 即可
